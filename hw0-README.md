@@ -253,7 +253,7 @@ To build and test your code in the container, run the following inside the repo
 directory:
 
 ```bash
-mvn clean test -D HW=0
+mvn clean test -D proj=0
 ```
 
 Make sure that everything compiles. There should be 1 failure and 1 test run.
